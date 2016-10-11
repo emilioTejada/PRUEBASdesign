@@ -20,7 +20,7 @@
     <Button
         android:text="Button"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         android:layout_below="@+id/textView"
         android:layout_alignParentStart="true"
         android:layout_marginStart="39dp"
@@ -29,7 +29,7 @@
         android:elevation="5dp"
         android:visibility="visible"
         style="@style/Widget.AppCompat.Button" />
-
+<!--prueba-->
     <android.support.design.widget.FloatingActionButton
         android:id="@+id/fab"
         android:layout_width="wrap_content"
